@@ -11,7 +11,7 @@ public class Student01 {
         System.out.println(id);
     }
     public void printInformation (String name, int id) {
-        System.out.println(name+" "+id);
+        System.out.println(name+" "+ id);
     }
 }
-//this is compile time polymorphism which is method overloading
+//this is compile-time polymorphism which is method overloading
