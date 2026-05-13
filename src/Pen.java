@@ -5,4 +5,7 @@ public class Pen {
     public void write () {
         System.out.println("Writting a Essay");
     }
+    public void PrintColor (){
+        System.out.println(this.color);
+    }
 }

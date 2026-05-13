@@ -6,5 +6,12 @@ public class Driver {
 
         p1.write();
 
+        Pen p2 = new Pen();
+        p2.color ="Black";
+        p2.type = "Ballpoint";
+
+        p1.PrintColor();
+        p2.PrintColor();
+
     }
 }
