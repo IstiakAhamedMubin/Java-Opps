@@ -14,8 +14,15 @@ public class Driver {
         p2.PrintColor();
 
         Student s1 = new Student("Istiak_Ahamed",21,3.54,273);
+        System.out.println("Information of Student s1: ");
         s1.StudentInfo();
 
+        System.out.println();
+
+        Student s2 = new Student(s1);
+
+        System.out.println("Information of Student s1: ");
+        s2.StudentInfo();
 
     }
 }
