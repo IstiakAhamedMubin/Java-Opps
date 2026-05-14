@@ -10,6 +10,8 @@ I use this repository to improve my understanding of core Java and OOP concepts 
 
 - Classes & Objects
 - Constructors
+- Copy Constructor
+- Private Constructor
 - Constructor Chaining
 - Encapsulation
 - Inheritance
